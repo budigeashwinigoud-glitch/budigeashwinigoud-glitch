@@ -1,28 +1,110 @@
-# 💫 About Me:
-# 👋 Hi, I'm Ashwini<br><br>### 🤖 Aspiring AI/ML Engineer | B.Tech CSM (AI & ML)<br><br>I enjoy building **AI-powered applications, automation systems, and real-world software projects**.<br><br>### 🚀 Featured Projects<br><br>- 🛡️ **SAT-SA** — Cybersecurity analytics & detection platform<br>- 🦷 **DentiFlow** — Dental clinic management system<br>- 📰 **Fake News Detection** — Machine learning classification project<br>- 📋 **Task Allotment Automation** — Automated employee task allocation & email workflow<br><br>### 🌱 Currently Exploring<br><br>**AI • Machine Learning • Generative AI • Full-Stack Development • Automation**<br><br>### 🏆 Beyond Coding<br><br>Hackathons • Internships • Tech Events • Creativity • Teamwork 🎯<br><br>### 💡 My Motto<br><br>> **Code • Create • Experiment • Learn • Repeat 🚀**
+<div align="center">
 
+# 👋 Hi, I'm Ashwini
 
-## 🌐 Socials:
-🔗 [LinkedIn](https://www.linkedin.com/in/ashwini-budige-13a21b380/)
-📧 [Email](budigeashwinigoud@gmail.com)
+### 🤖 Aspiring AI/ML Engineer | B.Tech CSM (AI & ML)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=budigeashwinigoud-glitch&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=budigeashwinigoud-glitch&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=budigeashwinigoud-glitch&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Turning ideas into practical AI-powered solutions 🚀**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=budigeashwinigoud-glitch&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=budigeashwinigoud-glitch&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=budigeashwinigoud-glitch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 B.Tech CSM (AI & ML) student passionate about **Artificial Intelligence, Machine Learning and Software Development**.
+
+💡 I enjoy transforming ideas into **working applications** and exploring how AI can solve real-world problems.
+
+🏆 Hackathons • Internships • Projects • Tech Events
+
+🌱 Currently exploring **Machine Learning, Generative AI, Full-Stack Development and Automation**.
+
+---
+
+## 💻 What I Work With
+
+### 🐍 Programming
+`Python` `Java` `C` `SQL`
+
+### 🤖 AI & Machine Learning
+`Machine Learning` `Data Science` `Generative AI` `Scikit-learn`
+
+### 🌐 Development
+`Flask` `React` `REST APIs` `Full-Stack Development`
+
+### 🛠️ Tools
+`Git` `GitHub` `VS Code` `Jupyter Notebook` `MySQL`
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🛡️ **SAT-SA** | Cybersecurity analytics and detection platform |
+| 🦷 **DentiFlow** | Dental clinic management application |
+| 📰 **Fake News Detection** | Machine learning based news classification system |
+| 📋 **Task Allotment Automation** | Automated employee task allocation and email workflow |
+| 🏥 **Crowd Evacuation Simulation** | Mathematical modeling and simulation of crowd movement during emergencies |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=budigeashwinigoud-glitch&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budigeashwinigoud-glitch&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+🤖 Machine Learning & Deep Learning  
+✨ Generative AI  
+💻 Full-Stack Development  
+🧩 Data Structures & Algorithms  
+⚙️ AI Automation
+
+---
+
+## 🏆 Beyond Coding
+
+🎯 Hackathons  
+💡 Building new project ideas  
+🎨 Creativity & Design  
+🤝 Team Collaboration  
+📚 Learning new technologies
+
+---
+
+## 🤝 Let's Connect & Build Something Together!
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-red?style=for-the-badge&logo=gmail">
+</a>
+
+<br><br>
+
+### 💡 Code • Create • Experiment • Learn • Repeat 🚀
+
+</div>
